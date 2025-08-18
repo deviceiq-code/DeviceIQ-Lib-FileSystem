@@ -5,7 +5,7 @@
     "keywords": "filesystem, file, storage, LittleFS, ESP32, ESP8266, automation, iot",
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/fer-almeida/deviceiq-lib-filesystem.git"
+        "url": "https://github.com/deviceiq-code/DeviceIQ-Lib-FileSystem.git"
     },
     "authors": [
         {
@@ -15,7 +15,7 @@
         }
     ],
     "license": "MIT",
-    "homepage": "https://bitbucket.org/fer-almeida/deviceiq-lib-filesystem",
+    "homepage": "https://github.com/deviceiq-code/DeviceIQ-Lib-FileSystem",
     "dependencies": {
         "littlefs": "*"
     },
