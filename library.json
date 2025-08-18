@@ -1,0 +1,31 @@
+{
+    "name": "DeviceIQ Lib FileSystem",
+    "version": "1.1.0",
+    "description": "Lightweight file system utility library for Arduino/ESP32 using LittleFS, providing file, directory, and safe write operations.",
+    "keywords": "filesystem, file, storage, LittleFS, ESP32, ESP8266, automation, iot",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/fer-almeida/deviceiq-lib-filesystem.git"
+    },
+    "authors": [
+        {
+            "name": "Fernando Almeida",
+            "email": "fernando.almeida@me.com",
+            "url": "https://www.linkedin.com/in/fealmeida"
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://bitbucket.org/fer-almeida/deviceiq-lib-filesystem",
+    "dependencies": {
+        "littlefs": "*"
+    },
+    "frameworks": "*",
+    "platforms": "*",
+    "examples": [
+        {
+            "name": "BasicUsage",
+            "path": "examples/BasicUsage/BasicUsage.ino"
+        }
+    ]
+}
+  
